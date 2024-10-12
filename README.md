@@ -9,6 +9,7 @@
 # obj-arframe
 
 https://github.com/CursedPrograms/ARToolkit-ArtGallery-Template
+https://github.com/CursedPrograms/Augmented-Reality-Resources
 
 <br>
 <div align="center">
